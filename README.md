@@ -1,4 +1,6 @@
-# 漏洞原理
+# 渗透原理
+## 域环境
+  + [kerberos协议认证流程详解](https://www.bilibili.com/video/BV1KA411L7e3)
 # 渗透过程
 ## 信息收集
 # 渗透实战
