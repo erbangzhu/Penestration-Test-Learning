@@ -15,6 +15,9 @@
   + [Nginx中间件漏洞总结](https://mp.weixin.qq.com/s/wuFh5CAYD_G43DZxSTe3Mg)
 # 渗透过程
 ## 信息收集
+### 外网
+### 内网
+  + [内网渗透之域渗透命令执行总结](https://mp.weixin.qq.com/s/rRMc6RyfekZC_SQJASHWaw)
 # 渗透实战
 # 工具使用
 ## 内网穿透
