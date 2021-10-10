@@ -8,6 +8,7 @@
   + [PHP反序列化漏洞成因及漏洞挖掘技巧与案例](https://www.anquanke.com/post/id/84922)
 ## 域环境
   + [kerberos协议认证流程详解](https://www.bilibili.com/video/BV1KA411L7e3)
+  + [内网渗透之代理转发](https://www.secpulse.com/archives/140684.html)
 ## DNSlog
   + [如何在无回显时渗透](https://mp.weixin.qq.com/s/j8laNlYRRooTF-vUpMPFow)
 ## 中间件
@@ -22,6 +23,8 @@
 # 渗透实战
 ## 敏感文件读取
   + [利用FUZZ读取敏感文件](https://blog.csdn.net/xiaoi123/article/details/80803390)
+## 后台登录
+  +[爆破和万能秘钥登录后台](https://blog.csdn.net/weixin_44991517/article/details/93896401)
 # 工具使用
 ## 目录扫描
   + [cansina 使用 fuzzdb进行web目录扫描](https://www.cnblogs.com/bonelee/p/14725123.html)
