@@ -16,6 +16,7 @@
 # 渗透过程
 ## 信息收集
 ### 外网
+  + [红队之windows信息收集思路](https://xz.aliyun.com/t/10313)
 ### 内网
   + [内网渗透之域渗透命令执行总结](https://mp.weixin.qq.com/s/rRMc6RyfekZC_SQJASHWaw)
 # 渗透实战
