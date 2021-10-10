@@ -10,6 +10,9 @@
   + [kerberos协议认证流程详解](https://www.bilibili.com/video/BV1KA411L7e3)
 ## DNSlog
   + [如何在无回显时渗透](https://mp.weixin.qq.com/s/j8laNlYRRooTF-vUpMPFow)
+## 中间件
+### Nginx
+  + [Nginx中间件漏洞总结](https://mp.weixin.qq.com/s/wuFh5CAYD_G43DZxSTe3Mg)
 # 渗透过程
 ## 信息收集
 # 渗透实战
