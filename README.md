@@ -23,4 +23,5 @@
 ## 内网穿透
   + [通过MSF搭建路由和socks](https://mp.weixin.qq.com/s/obOzLtmbpK-RUKw373x-wA)
   + [通过Earthworm搭建socks](https://www.anquanke.com/post/id/85494)
-
+## FUZZ
+  + [使用fuzzDB进行web安全测试](https://cloud.tencent.com/developer/article/1035286)
