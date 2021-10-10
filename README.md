@@ -24,7 +24,7 @@
 ## 敏感文件读取
   + [利用FUZZ读取敏感文件](https://blog.csdn.net/xiaoi123/article/details/80803390)
 ## 后台登录
-  +[爆破和万能秘钥登录后台](https://blog.csdn.net/weixin_44991517/article/details/93896401)
+  + [爆破和万能秘钥登录后台](https://blog.csdn.net/weixin_44991517/article/details/93896401)
 # 工具使用
 ## 目录扫描
   + [cansina 使用 fuzzdb进行web目录扫描](https://www.cnblogs.com/bonelee/p/14725123.html)
