@@ -8,6 +8,8 @@
   + [PHP反序列化漏洞成因及漏洞挖掘技巧与案例](https://www.anquanke.com/post/id/84922)
 ## 域环境
   + [kerberos协议认证流程详解](https://www.bilibili.com/video/BV1KA411L7e3)
+## DNSlog
+  + [如何在无回显时渗透](https://mp.weixin.qq.com/s/j8laNlYRRooTF-vUpMPFow)
 # 渗透过程
 ## 信息收集
 # 渗透实战
