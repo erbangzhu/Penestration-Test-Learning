@@ -19,6 +19,8 @@
 ### 内网
   + [内网渗透之域渗透命令执行总结](https://mp.weixin.qq.com/s/rRMc6RyfekZC_SQJASHWaw)
 # 渗透实战
+## 敏感文件读取
+  + [利用FUZZ读取敏感文件](https://blog.csdn.net/xiaoi123/article/details/80803390)
 # 工具使用
 ## 内网穿透
   + [通过MSF搭建路由和socks](https://mp.weixin.qq.com/s/obOzLtmbpK-RUKw373x-wA)
