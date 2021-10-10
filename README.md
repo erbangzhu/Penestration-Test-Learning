@@ -23,9 +23,11 @@
   + [利用FUZZ读取敏感文件](https://blog.csdn.net/xiaoi123/article/details/80803390)
 # 工具使用
 ## 目录扫描
-  + [cansina 使用 fuzzdb进行web目录扫描] (https://www.cnblogs.com/bonelee/p/14725123.html)
+  + [cansina 使用 fuzzdb进行web目录扫描](https://www.cnblogs.com/bonelee/p/14725123.html)
 ## 内网穿透
   + [通过MSF搭建路由和socks](https://mp.weixin.qq.com/s/obOzLtmbpK-RUKw373x-wA)
   + [通过Earthworm搭建socks](https://www.anquanke.com/post/id/85494)
 ## FUZZ
   + [使用fuzzDB进行web安全测试](https://cloud.tencent.com/developer/article/1035286)
+## 各类插件
+  + [Chrome 灵魂插件](https://mp.weixin.qq.com/s/uhpGbyD4aSugijaVo2MiGw)
