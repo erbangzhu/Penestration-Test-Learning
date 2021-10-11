@@ -1,4 +1,8 @@
 # 渗透原理
+## SQL注入
+### SQLMap
+  + [记一份SQLmap使用手册小结（一）](https://xz.aliyun.com/t/3010)
+  + [记一份SQLmap使用手册小结（二）](https://xz.aliyun.com/t/3011)
 ## 文件上传
   + [文件上传Bypass安全狗](https://mp.weixin.qq.com/s/S9v8rG-uqPTIy0SJHbKT2A)
   + [Chunk分块传输Bypass安全狗](https://www.cnblogs.com/Xor0ne/articles/13729654.html)
