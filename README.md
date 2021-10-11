@@ -9,8 +9,11 @@
 ## 内网渗透
   + [内网渗透思路整理与工具使用](https://www.anquanke.com/post/id/85827)
   + [内网渗透之代理转发](https://www.secpulse.com/archives/140684.html)
+  + [内网穿透之多层代理](https://mp.weixin.qq.com/s/y_f4uQH8-aKdpJhhLU3byg)
 ## 域环境
   + [kerberos协议认证流程详解](https://www.bilibili.com/video/BV1KA411L7e3)
+  + [全网最详细的Kerberos协议及其漏洞](https://mp.weixin.qq.com/s/rYXql39DukaXSY2PkdPehQ)
+  + [黄金票据和白银票据伪造](https://mp.weixin.qq.com/s/qrYNOHczPRLkld0w2QAWxA)
 ## DNSlog
   + [如何在无回显时渗透](https://mp.weixin.qq.com/s/j8laNlYRRooTF-vUpMPFow)
 ## 中间件
@@ -22,6 +25,8 @@
   + [红队之windows信息收集思路](https://xz.aliyun.com/t/10313)
 ### 内网
   + [内网渗透之域渗透命令执行总结](https://mp.weixin.qq.com/s/rRMc6RyfekZC_SQJASHWaw)
+## Getshell
+  + [后台getshell常用技巧总结](https://mp.weixin.qq.com/s/uf46eBb-Y14XQoPRw1vJLQ)
 # 渗透实战
 ## 敏感文件读取
   + [利用FUZZ读取敏感文件](https://blog.csdn.net/xiaoi123/article/details/80803390)
@@ -37,3 +42,6 @@
   + [使用fuzzDB进行web安全测试](https://cloud.tencent.com/developer/article/1035286)
 ## 各类插件
   + [Chrome 灵魂插件](https://mp.weixin.qq.com/s/uhpGbyD4aSugijaVo2MiGw)
+# 安全加固
+## Linux
+  + [CentOS安全加固建议](https://cloud.tencent.com/developer/article/1623140)
