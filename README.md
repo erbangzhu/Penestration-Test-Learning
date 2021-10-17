@@ -22,6 +22,7 @@
   + [内网渗透思路整理与工具使用](https://www.anquanke.com/post/id/85827)
   + [内网渗透之代理转发](https://www.secpulse.com/archives/140684.html)
   + [内网穿透之多层代理](https://mp.weixin.qq.com/s/y_f4uQH8-aKdpJhhLU3byg)
+  + [内网隧道与SOCKS代理思路总结](https://www.cnblogs.com/lcxblogs/p/13931496.html)
 ## 域环境
   + [kerberos协议认证流程详解](https://www.bilibili.com/video/BV1KA411L7e3)
   + [全网最详细的Kerberos协议及其漏洞](https://mp.weixin.qq.com/s/rYXql39DukaXSY2PkdPehQ)
