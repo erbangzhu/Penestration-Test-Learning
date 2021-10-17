@@ -20,6 +20,8 @@
   + [黄金票据和白银票据伪造](https://mp.weixin.qq.com/s/qrYNOHczPRLkld0w2QAWxA)
 ## DNSlog
   + [如何在无回显时渗透](https://mp.weixin.qq.com/s/j8laNlYRRooTF-vUpMPFow)
+## 权限维持
+  + [影子用户的创建与利用](https://bbs.ichunqiu.com/thread-61918-1-1.html)
 ## 中间件
 ### Nginx
   + [Nginx中间件漏洞总结](https://mp.weixin.qq.com/s/wuFh5CAYD_G43DZxSTe3Mg)
@@ -39,6 +41,8 @@
 ## 后台登录
   + [爆破和万能秘钥登录后台](https://blog.csdn.net/weixin_44991517/article/details/93896401)
 # 工具使用
+  + [Certutil从互联网下载内容](https://zhuanlan.zhihu.com/p/107819644)
+  + [procdump+mimikatz读取密码](https://bbs.ichunqiu.com/thread-53325-1-1.html)
 ## 目录扫描
   + [cansina 使用 fuzzdb进行web目录扫描](https://www.cnblogs.com/bonelee/p/14725123.html)
 ## 内网穿透
