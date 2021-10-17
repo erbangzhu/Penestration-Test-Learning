@@ -1,8 +1,12 @@
 # 渗透原理
 ## SQL注入
+  + [Oracle数据库注入全方位利用](https://xz.aliyun.com/t/9940)
+  + [SQL手工注入总结](https://mp.weixin.qq.com/s/vAtAZsvPIgnGEnkWCIDC4Q)
 ### SQLMap
   + [记一份SQLmap使用手册小结（一）](https://xz.aliyun.com/t/3010)
   + [记一份SQLmap使用手册小结（二）](https://xz.aliyun.com/t/3011)
+  + [Sqlmap那些实用的操作](https://mp.weixin.qq.com/s/_Jayfo9ds78verGGAX7eNg)
+  + [sqlmap自带的tamper你了解多少](https://mp.weixin.qq.com/s/vEEoMacmETUA4yZODY8xMQ)
 ## 文件上传
   + [文件上传Bypass安全狗](https://mp.weixin.qq.com/s/S9v8rG-uqPTIy0SJHbKT2A)
   + [Chunk分块传输Bypass安全狗](https://www.cnblogs.com/Xor0ne/articles/13729654.html)
@@ -25,6 +29,10 @@
 ## 中间件
 ### Nginx
   + [Nginx中间件漏洞总结](https://mp.weixin.qq.com/s/wuFh5CAYD_G43DZxSTe3Mg)
+## 逻辑漏洞
+  + [逻辑漏洞](https://blog.csdn.net/hitwangpeng/article/details/46052933)
+## Linux
+  + [linux中的wget命令与示例](https://mp.weixin.qq.com/s/WZS0C99klyWceUQUvecgSg)
 # 渗透过程
 ## 信息收集
 ### 外网
