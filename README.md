@@ -11,6 +11,7 @@
   + [文件上传Bypass安全狗](https://mp.weixin.qq.com/s/S9v8rG-uqPTIy0SJHbKT2A)
   + [Chunk分块传输Bypass安全狗](https://www.cnblogs.com/Xor0ne/articles/13729654.html)
   + [Content-Encoding=deflate 绕过本地防火墙](https://xz.aliyun.com/t/10278)
+  + [爆破以时间戳命名的上传文件路径](https://xz.aliyun.com/t/10280)
 ## 序列化
   + [浅谈php反序列化漏洞](https://chybeta.github.io/2017/06/17/%E6%B5%85%E8%B0%88php%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
   + [PHP反序列化漏洞成因及漏洞挖掘技巧与案例](https://www.anquanke.com/post/id/84922)
@@ -49,6 +50,7 @@
 ## 后台登录
   + [爆破和万能秘钥登录后台](https://blog.csdn.net/weixin_44991517/article/details/93896401)
 # 工具使用
+  + [cain & wireshark & netfuke & foca evail & ettercap & Hydra & medusa & hash-identifier & Hashcat & john & Fcrackzip & rarcrack & ftp爆破& phpmyadmin爆破 & psexec & incognito & smbclient & mimikaz](https://blog.csdn.net/weixin_44508748/article/details/107328053)
 ## 远程下载
   + [Certutil从互联网下载内容](https://zhuanlan.zhihu.com/p/107819644)
 ## 密码读取
@@ -58,6 +60,7 @@
 ## 内网穿透
   + [通过MSF搭建路由和socks](https://mp.weixin.qq.com/s/obOzLtmbpK-RUKw373x-wA)
   + [通过Earthworm搭建socks](https://www.anquanke.com/post/id/85494)
+  + [goproxy & pystinger](https://mp.weixin.qq.com/s/jBj_Xx6LPKlSJn1Vg-8nbA)
 ## FUZZ
   + [使用fuzzDB进行web安全测试](https://cloud.tencent.com/developer/article/1035286)
 ## 各类插件
@@ -65,3 +68,5 @@
 # 安全加固
 ## Linux
   + [CentOS安全加固建议](https://cloud.tencent.com/developer/article/1623140)
+## WEB
+  + [常见EB渗透测试漏洞描述及修复方法](https://mp.weixin.qq.com/s/QUL5wDPu0iQWhkLF9i7sfQ)
