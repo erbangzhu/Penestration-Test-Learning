@@ -12,6 +12,8 @@
   + [Chunk分块传输Bypass安全狗](https://www.cnblogs.com/Xor0ne/articles/13729654.html)
   + [Content-Encoding=deflate 绕过本地防火墙](https://xz.aliyun.com/t/10278)
   + [爆破以时间戳命名的上传文件路径](https://xz.aliyun.com/t/10280)
+## 命令执行
+  + [命令执行写webshell总结](https://mp.weixin.qq.com/s/ZSH14u639MBXi0xEXdtDVQ)
 ## 序列化
   + [浅谈php反序列化漏洞](https://chybeta.github.io/2017/06/17/%E6%B5%85%E8%B0%88php%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
   + [PHP反序列化漏洞成因及漏洞挖掘技巧与案例](https://www.anquanke.com/post/id/84922)
