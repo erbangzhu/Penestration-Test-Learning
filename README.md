@@ -43,6 +43,7 @@
   + [红队之windows信息收集思路](https://xz.aliyun.com/t/10313)
 ### 内网
   + [内网渗透之域渗透命令执行总结](https://mp.weixin.qq.com/s/rRMc6RyfekZC_SQJASHWaw)
+  + [文件读取漏洞总结](https://mp.weixin.qq.com/s/Jkwa1KDnKsoV_t5V9XX3kw)
 ## Getshell
   + [后台getshell常用技巧总结](https://mp.weixin.qq.com/s/uf46eBb-Y14XQoPRw1vJLQ)
 # 渗透实战
