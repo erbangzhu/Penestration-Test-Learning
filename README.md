@@ -32,6 +32,8 @@
 ## Getshell
   + [后台getshell常用技巧总结](https://mp.weixin.qq.com/s/uf46eBb-Y14XQoPRw1vJLQ)
 # 渗透实战
+## 远程代码执行
+  + [Thinkphp5远程代码执行](https://mp.weixin.qq.com/s/lxiIaSW1oyAkqD0oBm9q4g)
 ## 敏感文件读取
   + [利用FUZZ读取敏感文件](https://blog.csdn.net/xiaoi123/article/details/80803390)
 ## 后台登录
