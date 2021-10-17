@@ -45,6 +45,7 @@
 ### 内网
   + [内网渗透之域渗透命令执行总结](https://mp.weixin.qq.com/s/rRMc6RyfekZC_SQJASHWaw)
   + [文件读取漏洞总结](https://mp.weixin.qq.com/s/Jkwa1KDnKsoV_t5V9XX3kw)
+  + [主机信息收集和域信息收集](https://mp.weixin.qq.com/s/aiUiDjF77-eHVthmE2IxJA)
 ## Getshell
   + [后台getshell常用技巧总结](https://mp.weixin.qq.com/s/uf46eBb-Y14XQoPRw1vJLQ)
 # 渗透实战
