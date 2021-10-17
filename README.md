@@ -49,7 +49,9 @@
 ## 后台登录
   + [爆破和万能秘钥登录后台](https://blog.csdn.net/weixin_44991517/article/details/93896401)
 # 工具使用
+## 远程下载
   + [Certutil从互联网下载内容](https://zhuanlan.zhihu.com/p/107819644)
+## 密码读取
   + [procdump+mimikatz读取密码](https://bbs.ichunqiu.com/thread-53325-1-1.html)
 ## 目录扫描
   + [cansina 使用 fuzzdb进行web目录扫描](https://www.cnblogs.com/bonelee/p/14725123.html)
