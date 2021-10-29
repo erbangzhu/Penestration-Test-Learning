@@ -1,4 +1,12 @@
 # 渗透原理
+## 信息收集
+### 外网
+  + [红队之windows信息收集思路](https://xz.aliyun.com/t/10313)
+  + [红队指纹扫描工具](https://mp.weixin.qq.com/s/HRbmcrs4JOyXlMKDV__t0A)
+### 内网
+  + [内网渗透之域渗透命令执行总结](https://mp.weixin.qq.com/s/rRMc6RyfekZC_SQJASHWaw)
+  + [文件读取漏洞总结](https://mp.weixin.qq.com/s/Jkwa1KDnKsoV_t5V9XX3kw)
+  + [主机信息收集和域信息收集](https://mp.weixin.qq.com/s/aiUiDjF77-eHVthmE2IxJA)
 ## 注入
   + [Oracle数据库注入全方位利用](https://xz.aliyun.com/t/9940)
   + [SQL手工注入总结](https://mp.weixin.qq.com/s/vAtAZsvPIgnGEnkWCIDC4Q)
@@ -26,6 +34,8 @@
 ## 序列化
   + [浅谈php反序列化漏洞](https://chybeta.github.io/2017/06/17/%E6%B5%85%E8%B0%88php%E5%8F%8D%E5%BA%8F%E5%88%97%E5%8C%96%E6%BC%8F%E6%B4%9E/)
   + [PHP反序列化漏洞成因及漏洞挖掘技巧与案例](https://www.anquanke.com/post/id/84922)
+## Getshell
+  + [后台getshell常用技巧总结](https://mp.weixin.qq.com/s/uf46eBb-Y14XQoPRw1vJLQ)
 ## 后渗透
   + [后渗透信息收集小结](https://xz.aliyun.com/t/10384)
   + [一文吃透Linux提权](https://mp.weixin.qq.com/s/z35YxVeT3GQeZvRBuZD-xg)
@@ -52,17 +62,6 @@
   + [逻辑漏洞](https://blog.csdn.net/hitwangpeng/article/details/46052933)
 ## Linux
   + [linux中的wget命令与示例](https://mp.weixin.qq.com/s/WZS0C99klyWceUQUvecgSg)
-# 渗透过程
-## 信息收集
-### 外网
-  + [红队之windows信息收集思路](https://xz.aliyun.com/t/10313)
-  + [红队指纹扫描工具](https://mp.weixin.qq.com/s/HRbmcrs4JOyXlMKDV__t0A)
-### 内网
-  + [内网渗透之域渗透命令执行总结](https://mp.weixin.qq.com/s/rRMc6RyfekZC_SQJASHWaw)
-  + [文件读取漏洞总结](https://mp.weixin.qq.com/s/Jkwa1KDnKsoV_t5V9XX3kw)
-  + [主机信息收集和域信息收集](https://mp.weixin.qq.com/s/aiUiDjF77-eHVthmE2IxJA)
-## Getshell
-  + [后台getshell常用技巧总结](https://mp.weixin.qq.com/s/uf46eBb-Y14XQoPRw1vJLQ)
 # 渗透实战
 ## 远程代码执行
   + [Thinkphp5远程代码执行](https://mp.weixin.qq.com/s/lxiIaSW1oyAkqD0oBm9q4g)
