@@ -36,6 +36,8 @@
   + [PHP反序列化漏洞成因及漏洞挖掘技巧与案例](https://www.anquanke.com/post/id/84922)
 ## Getshell
   + [后台getshell常用技巧总结](https://mp.weixin.qq.com/s/uf46eBb-Y14XQoPRw1vJLQ)
+## Shellcode Bypass
+  + [go加壳分离免杀过国内主流杀软](https://mp.weixin.qq.com/s/jXStUsavx4xW3yqi45w5oQ)
 ## 后渗透
   + [后渗透信息收集小结](https://xz.aliyun.com/t/10384)
   + [一文吃透Linux提权](https://mp.weixin.qq.com/s/z35YxVeT3GQeZvRBuZD-xg)
@@ -44,8 +46,10 @@
   + [内网渗透之代理转发](https://www.secpulse.com/archives/140684.html)
   + [内网穿透之多层代理](https://mp.weixin.qq.com/s/y_f4uQH8-aKdpJhhLU3byg)
   + [内网隧道与SOCKS代理思路总结](https://www.cnblogs.com/lcxblogs/p/13931496.html)
+  + [内网隧道搭建总结(一)](https://mp.weixin.qq.com/s/pFqcnQV_qlIkEZ-isMOjUw)
 ## 域环境
   + [kerberos协议认证流程详解](https://www.bilibili.com/video/BV1KA411L7e3)
+  + [内网学习之票据伪造](https://mp.weixin.qq.com/s/HnWsCknbOss5leHellPURg)
   + [全网最详细的Kerberos协议及其漏洞](https://mp.weixin.qq.com/s/rYXql39DukaXSY2PkdPehQ)
   + [黄金票据和白银票据伪造](https://mp.weixin.qq.com/s/qrYNOHczPRLkld0w2QAWxA)
   + [AD域安全协议（三）LDAP](https://www.freebuf.com/articles/es/291170.html)
