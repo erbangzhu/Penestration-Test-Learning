@@ -73,6 +73,12 @@
   + [利用FUZZ读取敏感文件](https://blog.csdn.net/xiaoi123/article/details/80803390)
 ## 后台登录
   + [爆破和万能秘钥登录后台](https://blog.csdn.net/weixin_44991517/article/details/93896401)
+## SRC
+  + [浅谈src漏洞的批量挖掘](https://www.wlhhlc.top/posts/997/)
+## CTF
+  + [ctfshow-Web1000题系列修炼(一)](https://www.wlhhlc.top/posts/14827/)
+  + [ctfshow-Web1000题系列修炼(二)](https://www.wlhhlc.top/posts/33757/)
+  
 # 工具使用
   + [cain & wireshark & netfuke & foca evail & ettercap & Hydra & medusa & hash-identifier & Hashcat & john & Fcrackzip & rarcrack & ftp爆破& phpmyadmin爆破 & psexec & incognito & smbclient & mimikaz](https://blog.csdn.net/weixin_44508748/article/details/107328053)
 ## 远程下载
