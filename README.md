@@ -78,6 +78,8 @@
 ## CTF
   + [ctfshow-Web1000题系列修炼(一)](https://www.wlhhlc.top/posts/14827/)
   + [ctfshow-Web1000题系列修炼(二)](https://www.wlhhlc.top/posts/33757/)
+## CS与MSF
+  + [实战博彩站点-从弱口令到提权](https://mp.weixin.qq.com/s/HLmpsmDa4lmTopRfV8G4sw)
   
 # 工具使用
   + [cain & wireshark & netfuke & foca evail & ettercap & Hydra & medusa & hash-identifier & Hashcat & john & Fcrackzip & rarcrack & ftp爆破& phpmyadmin爆破 & psexec & incognito & smbclient & mimikaz](https://blog.csdn.net/weixin_44508748/article/details/107328053)
