@@ -23,6 +23,7 @@
   + [Chunk分块传输Bypass安全狗](https://www.cnblogs.com/Xor0ne/articles/13729654.html)
   + [Content-Encoding=deflate 绕过本地防火墙](https://xz.aliyun.com/t/10278)
   + [爆破以时间戳命名的上传文件路径](https://xz.aliyun.com/t/10280)
+  + [漏洞挖掘之通达OA2017任意文件上传](https://mp.weixin.qq.com/s/jZmO-44-mNAS9DU6a4BBUA)
 ## 目录穿越
   + [目录穿越](https://xz.aliyun.com/t/10359)
 ## 命令执行
